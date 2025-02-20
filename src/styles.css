@@ -95,7 +95,6 @@ main {
 
 .weather-forecast {
   display: flex;
-  flex-direction: column;
   justify-content: space-around;
   margin-top: 30px;
 }
